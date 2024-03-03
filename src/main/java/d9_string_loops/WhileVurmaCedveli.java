@@ -1,5 +1,7 @@
 package d9_string_loops;
 
+import testklasi.Student;
+
 import java.util.Scanner;
 
 public class WhileVurmaCedveli {
@@ -12,5 +14,12 @@ public class WhileVurmaCedveli {
             System.out.println(num + " * " + i + " = " + (num * i));
             i++;
         }
+
+//        Student Farid = new Student();
+//        Farid.stdName = "Namiq";
+//        System.out.println(Farid.stdName);
+//Student.stdName = "Michael";
+//        System.out.println(Student.stdName);
+
     }
 }
